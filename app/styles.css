@@ -1,0 +1,51 @@
+html,body{
+    overflow-x: hidden !important;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#row {
+    background-color:#e7e7e7;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding:10px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+
+
+#end{
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: #dcdcdc;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    border: 3px solid white;
+}
+
+#logo_on_top{
+    border: 2px #3276b1;
+    text-align: center;
+}
+
+#logo_at_bottom{
+    border: 2px solid #dcdcdc;
+    text-align: center;
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
